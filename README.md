@@ -25,4 +25,4 @@ The layout is built using CSS Grid to create a dynamic grid pattern with varied 
 
 1. Clone the repository:
    ```bash
-   git clone https:/Krithika-N-4/github.com//Mondarian-Painting.git
+   git clone https:/Krithika-N-4/github.com//Mondrian-Painting.git
